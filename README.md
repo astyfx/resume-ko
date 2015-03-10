@@ -29,7 +29,7 @@ MongoDB|기초 수준|NoSQL에 대한 지식을 위한 공부를 한적이 있�
 ---|---|---
 Spring|**운영 경험**|3.2.x 버전 기반 개발경험이 있으며, 최근에는 Spring Boot, Spring Data JPA, Spring Security기반으로 프로젝트 개발을 진행하고 있습니다.(외주:[Reshare][reshare], 외주:[Bitsquare][bitsquare] 등)
 Django|**운영 경험**|1.6.x 버전 기반 개발 경험이 있으며, 개인 프로젝트 및 외주 프로젝트 개발에 사용하였습니다.(외주:[Youclip][youclip] 등)
-Flask|**운영 경험**|0.10.x  버전 기반 개발 경험이 있으며, 개인 프로젝트 및 외주, 회사 자체 프로젝트 개발에 사용하였습니다. Static Rendering 기반 및 REST Api 기반으로 개발하였습니다.(개인:[Stacklion][stacklion], 회사:Buckets[buckets])
+Flask|**운영 경험**|0.10.x  버전 기반 개발 경험이 있으며, 개인 프로젝트 및 외주, 회사 자체 프로젝트 개발에 사용하였습니다. Static Rendering 기반 및 REST Api 기반으로 개발하였습니다.(개인:[Stacklion][stacklion], 회사:[Buckets][buckets])
 AngularJS|**운영 경험**|1.3.x 버전 기반 개발 경험이 있으며, Scope, Directive, Data Binding, Modulize 등을 이해하고 있으며, JWT를 사용한 Authentication에 대한 경험이 있습니다.(회사:[Buckets][buckets])
 Celery|**운영 경험**|Redis 메시지 큐 기반으로 Task Management Tool로서 활용한 경험이 있습니다.
 
@@ -66,7 +66,7 @@ Gulp|활용 가능|Gulp를 활용하여 간단한 Task작성 및 Static 컨텐�
 2014|소셜구루|'가위바위보팡' 관리자 사이트 개발(Spring)
 2014|(주)아이템매니아|'마일리지 생성기' 관리자 사이트 개발(Spring)
 2014|(주)원홀딩스. THE M:ALL 쇼핑몰/카페/소셜 웹 사이트 개발(Django)
-2014|와일드파이어|'Naldo' 유지보수 개발
+2014|와일드파이어|'[Naldo][naldo]' 유지보수 개발
 2014|Youclip.co.kr|'[Youclip][youclip]' 서버 및 프론트 엔드 개발(Django)
 2014|Bitsquare.co.kr|'[Bitsquare][bitsquare]' 서버 및 프론트 엔드 개발(Spring Boot)
 2014|Goya Corp.|'24Hours' SNS 서비스 관리자 사이트 개발(Spring Boot)
