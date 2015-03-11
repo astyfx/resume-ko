@@ -102,6 +102,7 @@ Gulp|활용 가능|Gulp를 활용하여 간단한 Task작성 및 Static 컨텐�
 - [Tumblr](http://astyfx.tumblr.com/)
 - [Twitter](https://twitter.com/astyfx)
 - [Facebook](https://www.facebook.com/astyfx)
+- [LinkedIn](https://www.linkedin.com/in/astyfx)
 
 [youclip]: http://youclip.co.kr
 [stacklion]: http://stacklion.com
