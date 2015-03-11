@@ -72,7 +72,7 @@ Gulp|활용 가능|Gulp를 활용하여 간단한 Task작성 및 Static 컨텐�
 2014|Goya Corp.|'24Hours' SNS 서비스 관리자 사이트 개발(Spring Boot)
 2014|Valup|'[Reshare.kr][reshare]' 서버 및 프론트 엔드 개발(Spring Boot)
 2014|(주)데이터스퀘어|'[Buckets.kr][buckets]' 서버 및 프론트 엔드 개발(Flask REST Api, AngularJS)
-2014|개인 프로젝트|'[Stacklion.com][stacklion]' 프로그래밍 Q&A 서비스(멋쟁이 사자처럼 활동 지원, 코드스터디, 라이크라이언 연계)
+2014|개인 프로젝트|'[Stacklion.com][stacklion]' 프로그래밍 Q&A 서비스(멋쟁이 사자처럼 활동 지원, 코드스터디, 라이크라이언 연계, Flask)
 
 ## 개인 평가
 ### 장점
