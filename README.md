@@ -24,7 +24,7 @@ MySQL|**운영 경험**|MyISAM와 InnoDB의 차이점을 이해하고 있습니�
 Redis|활용 가능|Key-Value Store를 이해하고 활용할 수 있으며, Redis를 메시지 큐로 사용한 경험이 있습니다.(Celery)
 MongoDB|기초 수준|NoSQL에 대한 지식을 위한 공부를 한적이 있으며, 회사내의 프로젝트에서 일부 사용한 경험이 있습니다.
 
-### Web Framework
+### 웹 프레임워크
 프레임워크|수 준|설 명
 ---|---|---
 Spring|**운영 경험**|3.2.x 버전 기반 개발경험이 있으며, 최근에는 Spring Boot, Spring Data JPA, Spring Security기반으로 프로젝트 개발을 진행하고 있습니다.(외주:[Reshare][reshare], 외주:[Bitsquare][bitsquare] 등)
@@ -39,7 +39,7 @@ Celery|**운영 경험**|Redis 메시지 큐 기반으로 Task Management Tool�
 Agile Scrum|활용 가능|스크럼 방법론이 지향하는 바를 알고 있으며, 회고의 중요성에 대해 이해하고 있습니다.
 TDD|기초 수준|TDD가 설계, 품질, 리팩토링에 주는 좋은 영향을 이해하고 있습니다. 단순한 코딩 방법론이 아니라, 오히려 문화적인 문제이고 개발 패러다임이라는 것을 이해하고 있습니다.
 
-### Operation, DevOps
+### 서버
 서비스|수 준|설 명
 ---|---|---
 AWS|활용 가능|EC2, RDS 기반 설정 및 운영 경험이 있습니다.
